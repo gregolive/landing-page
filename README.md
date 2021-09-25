@@ -1,1 +1,5 @@
-Sample landing page made using Flexbox.
+# Landing Page
+
+Landing page for Shakeup app.
+
+[Live demo](https://gregolive.github.io/landing-page/) 👈
